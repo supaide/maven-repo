@@ -6,6 +6,7 @@ mvn install:install-file -Dfile=${path}/${artifactId}.jar -DgroupId=com.github.s
 git add -f com/github/supaide/${artifactId}
 
 ```
+```
 allprojects {
     repositories {
         jcenter()
@@ -16,5 +17,5 @@ allprojects {
 }
 
 compile 'com.github.supaide:testlib:1.0.0'
-
+```
 
