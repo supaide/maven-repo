@@ -17,5 +17,4 @@ allprojects {
 
 compile 'com.github.supaide:testlib:1.0.0'
 
-```
 
