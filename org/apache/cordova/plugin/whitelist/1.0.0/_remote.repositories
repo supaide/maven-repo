@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Apr 27 10:47:33 CST 2017
+whitelist-1.0.0.pom>=
+whitelist-1.0.0.aar>=
